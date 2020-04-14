@@ -1,0 +1,3 @@
+User-agent: *
+
+Sitemap: http://loving.flygon.net/sitemap.xml
